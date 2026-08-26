@@ -20,5 +20,8 @@ mmm = "mmm";
 mmm = "mmm";
 mmm = "mmm";
 mmm = "mmm";
+<<<<<<< Updated upstream
 adfasdf = "smh";
+=======
 adfasdf = "bbbbbbbbbbbbb"
+>>>>>>> Stashed changes
